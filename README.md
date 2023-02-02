@@ -8,6 +8,6 @@ From sql-practice.com:
 
 -sql-practice.com Answers (Hard).
 
-From datacamp.com:
+From (https://www.sql-practice.com/):
 
 Project: Analyze International Debt Statistics.
