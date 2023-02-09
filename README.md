@@ -10,4 +10,3 @@ From sql-practice.com:
 
 From (https://www.sql-practice.com/):
 
-Project: Analyze International Debt Statistics.
